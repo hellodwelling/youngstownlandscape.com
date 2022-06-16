@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://youngstownlandscape.com/index</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/store</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/reviews</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/gallery-All</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/gallery-Landscaping</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/gallery-Hardscaping</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Natural-Stone-Hardscape</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Patio-Design-&-Construction</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Mulch-Installation</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Mowing</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Fall-and-Spring-Clean-Up</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Tree-Removal-and-Trimming</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://youngstownlandscape.com/service-Snow-Removal</loc>
+        <lastmod>2022-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
